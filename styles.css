@@ -1,4 +1,13 @@
 .title {
-    color: green;
+    font-family: 'Roboto';
+    color: greenyellow;
     font-weight: bold;
+}
+.title_additionally {
+    font-family: 'PT_Serif';
+    font-style: normal;
+}
+.main__button {
+    font-family: 'Roboto';
+    font-style: normal;
 }
