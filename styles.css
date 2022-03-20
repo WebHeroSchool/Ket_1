@@ -4,7 +4,10 @@
     font-weight: bold;
 }
 .header { display: flex; justify-content: space-between;}
-.wrapper { margin: auto; width: 80%; border: dashed 1px green;}
+.wrapper { 
+    margin: auto;
+     width: 80%;
+      border: dashed 1px green;}
 .menu_item {
  padding: 0 13px;
  border: dashed 1px green;}
