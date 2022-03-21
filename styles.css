@@ -20,7 +20,9 @@
  padding: 0 13px;
  border: dashed 1px blue;
 }
-
+.menu__item:last-child {
+    padding-right: 0;
+   }
 .title_additionally {
     font-family: 'PT_Serif';
     font-style: normal;
