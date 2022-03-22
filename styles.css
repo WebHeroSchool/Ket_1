@@ -3,9 +3,13 @@
     color: greenyellow;
     font-weight: bold;
 }
+.body {
+    margin: 0px;
+}
 .header {
-     display: flex;
-      justify-content: space-between;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
 }
 .wrapper { 
     margin: auto;
