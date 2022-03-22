@@ -15,6 +15,7 @@
      height: 35px;
      border: dashed 1px blue;
      background: url('img/logo.svg');
+     
 }
 .wrapper { 
     margin: auto;
