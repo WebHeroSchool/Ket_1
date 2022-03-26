@@ -61,7 +61,7 @@
    }
 .menu__item {
     position: relative;
-    margin-right: 22.5px;
+    margin-right: 20px;
     font: 500 19px/21px 'Roboto', arial, helvetica, sans-serif ;
     color: #000;
     text-decoration: none;
@@ -71,22 +71,21 @@
 background-repeat: no-repeat;
 background-position: center right;*/
 background: no-repeat url(img/mainimg.svg);
-margin-left: 195px;
-  margin-right: 205px;
+margin-left: 180px;
+  margin-right: 68px;
   padding: 0px 53% 100px 0;
-  background-position: top 225px right 130px;
-  border: dashed 3px red;
-}
+  background-position: top 182px right 130px;
+  }
 .main__title {
     /*margin: 0 0 40px 0;
     font: bold 50px/65px 'PT_Serif',arial, helvetica, sans-serif ;*/
     margin-bottom: 90px;
-    margin-top: 243px;
+    margin-top: 239px;
     width: 667px;
-    height: 208px;
-    font: bold 65px/87px 'PT_Serif', arial, helvetica, sans-serif;
-    border: dashed 3px red;
-}
+    height: 200px;
+    font: bold 66px/87.45px 'PT_Serif', arial, helvetica, sans-serif;
+    /*border: dashed 3px red;*/
+    }
 .main__title-text-highlight {
     background: #ECF3FF;
     margin-top: 0px;
@@ -97,14 +96,14 @@ margin-left: 195px;
   margin-bottom: 43px;
   margin-top: 0px;
   width: 457px;
-  height: 52px;
-  font: 500 22px/26px 'Roboto', arial, helvetica, sans-serif;
-  border: dashed 3px red;}
+  height: 45px;
+  font: 400 22px/25.78px 'Roboto', arial, helvetica, sans-serif;
+  }
 .main__button {
-    /*display: inline-block;*/
-    padding: 18px 36px 17px 19px;
-   margin-bottom: 270px;
-   font: 500 18px/21px 'Roboto', arial, helvetica, sans-serif;
+    display: inline-block;
+    padding: 18px 36px 18px 19px;
+   margin-bottom: 250px;
+   font: 500 18px/21.09px 'Roboto', arial, helvetica, sans-serif;
     color: #fff;
     background: #0056ec;
     text-decoration: none;
@@ -120,12 +119,11 @@ margin-left: 195px;
   margin-right: 205px;
   padding: 0px 53% 100px 0;
   background-position: top 3px right 130px;*/
-    border: dashed 5px red;
     position: absolute;
     width: 70px;
     height: 8px;
-    left: 867px;
-    margin-top: 278px;
+    left: 940px;
+    margin-top: 14px;
     }
 .title_additionally {
     font-family: 'PT_Serif';
