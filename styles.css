@@ -5,6 +5,7 @@
 }
 .body {
     margin: 0px;
+    width: 80%;
 }
 .header {
     /*padding: 40px 0;
@@ -12,7 +13,7 @@
     justify-content: space-between*/
     display: flex;
   justify-content: space-between;
-  margin-bottom: 225px;
+  margin-bottom: 0px;
   margin-left: 188px;
   margin-right: 219px;
   margin-top: 40px;
@@ -72,7 +73,7 @@ background: no-repeat url(img/mainimg.svg);
 margin-left: 195px;
   margin-right: 205px;
   padding: 0px 53% 100px 0;
-  background-position: top 3px right 130px;
+  background-position: top 225px right 130px;
   border: dashed 3px red;
 }
 .main__title {
@@ -123,7 +124,7 @@ margin-left: 195px;
     width: 70px;
     height: 8px;
     left: 867px;
-    margin-top: 7px;
+    margin-top: 278px;
     }
 .title_additionally {
     font-family: 'PT_Serif';
