@@ -74,15 +74,15 @@ background: no-repeat url(img/mainimg.svg);
 background-size: auto;
 margin-left: 186px;
 margin-right: 73px;
-padding: 0px 6% 10px 0;
-background-position: top -76px right 130px;
+padding: 40px 6% 10px 0;
+background-position: top 170px right 130px;
 padding-right: 63%;
 }
 .main__title {
     /*margin: 0 0 40px 0;
     font: bold 50px/65px 'PT_Serif',arial, helvetica, sans-serif ;*/
-    margin-bottom: 102px;
-    margin-top: 240px;
+    margin-bottom: 95px;
+    margin-top: 208px;
     margin-left: 1px;
     width: 667px;
     height: 200px;
