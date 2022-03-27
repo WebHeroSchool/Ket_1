@@ -71,11 +71,12 @@
 background-repeat: no-repeat;
 background-position: center right;*/
 background: no-repeat url(img/mainimg.svg);
+background-size: auto;
 margin-left: 186px;
-  margin-right: 73px;
-  padding: 0px 63% 100px 0;
-  background-position: top 18px right 131px;
-  padding-right: 63%;
+margin-right: 73px;
+padding: 0px 6% 10px 0;
+background-position: top -76px right 130px;
+padding-right: 63%;
 }
 .main__title {
     /*margin: 0 0 40px 0;
