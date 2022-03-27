@@ -96,12 +96,12 @@ padding-right: 63%;
 .main__subtitle { 
     /*margin: 0 0 41px 0;
     font: 18px/21px 'Roboto',arial, helvetica, sans-serif ;*/
-  margin-bottom: 45px;
-  margin-top: 0px;
-  margin-left: auto;
-  margin-right: 0px;
-  width: 477px;
-  height: 46px;
+    margin-bottom: 50px;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 464px;
+    height: 45px;
   font: 400 22px/25.78px 'Roboto', arial, helvetica, sans-serif;
   }
 .main__button {
