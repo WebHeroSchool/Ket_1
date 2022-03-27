@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Roboto';
-    src: url('Fonts/Roboto/Roboto-Black.ttf');
+    src: url('Fonts/Roboto/roboto-black-webfont.woff')format('woff');
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'PT_Serif';
-    src: url('Fonts/PT_Serif/ptserif-bold-webfont.woff');
+    src: url('Fonts/PT_Serif/ptserif-bold-webfont.woff')format('woff');
     font-weight: bold;
 }
 @font-face {
