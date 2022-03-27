@@ -15,7 +15,7 @@
   justify-content: space-between;
   margin-bottom: 0px;
   margin-left: 188px;
-  margin-right: 219px;
+  margin-right: 217px;
   margin-top: 40px;
  }
 .logo { 
@@ -36,7 +36,7 @@
     align-items: center;
 }
 .menu__item:last-child {
-    margin-right: 0;
+    margin-right: 0px;
 }
 .menu__item:after {
     position: absolute;
@@ -72,9 +72,9 @@ background-repeat: no-repeat;
 background-position: center right;*/
 background: no-repeat url(img/mainimg.svg);
 background-size: auto;
-margin-left: 186px;
-margin-right: 73px;
-padding: 40px 6% 10px 0;
+margin-left: 187px;
+margin-right: 79px;
+padding: 34px 63% 9px 0px;
 background-position: top 170px right 130px;
 padding-right: 63%;
 }
@@ -97,18 +97,18 @@ padding-right: 63%;
     /*margin: 0 0 41px 0;
     font: 18px/21px 'Roboto',arial, helvetica, sans-serif ;*/
     margin-bottom: 50px;
-    margin-top: -5px;
+    margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    width: 464px;
-    height: 45px;
+    width: 470px;
+    height: 44px;
   font: 400 22px/25.78px 'Roboto', arial, helvetica, sans-serif;
   }
 .main__button {
     display: inline-block;
     padding: 18px 36px 18px 19px;
    margin-bottom: 250px;
-   font: 500 18px/21.09px 'Roboto', arial, helvetica, sans-serif;
+   font: 500 18px/21.09px 'Roboto_me', arial, helvetica, sans-serif;
     color: #fff;
     background: #0056ec;
     text-decoration: none;
