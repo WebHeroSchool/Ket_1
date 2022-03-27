@@ -1,17 +1,17 @@
 @font-face {
     font-family: 'Roboto';
-    src: url(.Roboto/Roboto-Black.ttf);
-    font-weight: 500;
+    src: url('Fonts/Roboto/roboto-black-webfont.woff')format('woff');
+    font-weight: 700;
 }
 
 @font-face {
     font-family: 'PT_Serif';
-    src: url(.PT_Serif/PTSerif-Bold.ttf);
+    src: url('Fonts/PT_Serif/ptserif-bold-webfont.woff')format('woff');
     font-weight: bold;
 }
 @font-face {
     font-family: 'pt_serifregular';
-    src: url('ptserif-regular-webfont.woff') format('woff');
+    src: url('Fonts/PT_Serif/ptserif-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
