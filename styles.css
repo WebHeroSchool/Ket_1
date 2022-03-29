@@ -36,7 +36,7 @@
     align-items: center;
 }
 .menu__item:last-child {
-    margin-right: 0px;
+    margin-right: -9px;
 }
 .menu__item:after {
     position: absolute;
@@ -61,7 +61,7 @@
    }
 .menu__item {
     position: relative;
-    margin-right: 20px;
+    margin-right: 2.2vw;
     font: 500 19px/21px 'Roboto', arial, helvetica, sans-serif ;
     color: #000;
     text-decoration: none;
@@ -73,20 +73,20 @@ background-position: center right;*/
 background: no-repeat url(img/mainimg.svg);
 background-size: auto;
 margin-left: 187px;
-margin-right: 79px;
+margin-right: 79.1px;
 padding: 34px 63% 9px 0px;
-background-position: top 170px right 130px;
+background-position: top 167px right 127px;
 padding-right: 63%;
 }
 .main__title {
     /*margin: 0 0 40px 0;
     font: bold 50px/65px 'PT_Serif',arial, helvetica, sans-serif ;*/
-    margin-bottom: 95px;
-    margin-top: 208px;
-    margin-left: 1px;
-    width: 667px;
-    height: 200px;
-    font: bold 66px/87.45px 'PT_Serif', arial, helvetica, sans-serif;
+    margin-bottom: 94px;
+    margin-top: 208.9px;
+    margin-left: 0px;
+    width: 656px;
+    height: 201px;
+    font: bold 66px/86.45px 'PT_Serif', arial, helvetica, sans-serif;
     /*border: dashed 3px red;*/
     }
 .main__title-text-highlight {
@@ -106,9 +106,9 @@ padding-right: 63%;
   }
 .main__button {
     display: inline-block;
-    padding: 18px 36px 18px 19px;
-   margin-bottom: 250px;
-   font: 500 18px/21.09px 'Roboto_me', arial, helvetica, sans-serif;
+    padding: 17px 36px 18px 21px;
+    margin-bottom: 250px;
+    font: 500 18.1px/21.09px 'Roboto_me', arial, helvetica, sans-serif;
     color: #fff;
     background: #0056ec;
     text-decoration: none;
@@ -127,8 +127,8 @@ padding-right: 63%;
     position: absolute;
     width: 70px;
     height: 8px;
-    left: 940px;
-    margin-top: 14px;
+    left: 945px;
+    margin-top: 19px;
     }
 .title_additionally {
     font-family: 'PT_Serif';
