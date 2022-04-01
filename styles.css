@@ -90,7 +90,7 @@ padding-right: 63%;
     /*border: dashed 3px red;*/
     }
 .main__title-text-highlight {
-    background: #ECF3FF;
+    background: #ECF3FF linear-gradient(white 20%, #ecf3ff 20%, #ecf3ff 90% , white 58%);
     margin-top: 0px;
 }
 .main__subtitle { 
