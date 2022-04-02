@@ -35,10 +35,10 @@
     display: flex;
     align-items: center;
     margin-right: 0px;
-    /*padding: 2px 4px 0px 1px;*/
+    padding: 2px 4px 0px 1px;
 }
 .menu__item:last-child {
-    margin-right: -9px;
+    margin-right: -9.9px;
 }
 .menu__item:after {
     position: absolute;
@@ -63,7 +63,7 @@
    }
 .menu__item {
     position: relative;
-    margin-right: 2.21vw;
+    margin-right: 1.2vw;
     font: 500 19px/21px 'Roboto', arial, helvetica, sans-serif ;
     color: #000;
     text-decoration: none;
