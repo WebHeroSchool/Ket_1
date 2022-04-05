@@ -15,7 +15,7 @@
   justify-content: space-between;
   margin-bottom: 0px;
   margin-left: 188px;
-  margin-right: 219px;
+  margin-right: 217px;
   margin-top: 40px;
  }
 .logo { 
@@ -34,9 +34,11 @@
 .menu {
     display: flex;
     align-items: center;
+    margin-right: 0px;
+    padding: 2px 4px 0px 1px;
 }
 .menu__item:last-child {
-    margin-right: 0;
+    margin-right: -9.9px;
 }
 .menu__item:after {
     position: absolute;
@@ -61,7 +63,7 @@
    }
 .menu__item {
     position: relative;
-    margin-right: 20px;
+    margin-right: 1.2vw;
     font: 500 19px/21px 'Roboto', arial, helvetica, sans-serif ;
     color: #000;
     text-decoration: none;
@@ -72,43 +74,43 @@ background-repeat: no-repeat;
 background-position: center right;*/
 background: no-repeat url(img/mainimg.svg);
 background-size: auto;
-margin-left: 186px;
-margin-right: 73px;
-padding: 40px 6% 10px 0;
-background-position: top 170px right 130px;
+margin-left: 187px;
+margin-right: 79.1px;
+padding: 34px 63% 9px 0px;
+background-position: top 167px right 127px;
 padding-right: 63%;
 }
 .main__title {
     /*margin: 0 0 40px 0;
     font: bold 50px/65px 'PT_Serif',arial, helvetica, sans-serif ;*/
-    margin-bottom: 95px;
-    margin-top: 208px;
-    margin-left: 1px;
-    width: 667px;
-    height: 200px;
-    font: bold 66px/87.45px 'PT_Serif', arial, helvetica, sans-serif;
+    margin-bottom: 94px;
+    margin-top: 208.9px;
+    margin-left: 0px;
+    width: 656px;
+    height: 201px;
+    font: bold 66px/86.45px 'PT_Serif', arial, helvetica, sans-serif;
     /*border: dashed 3px red;*/
     }
 .main__title-text-highlight {
-    background: #ECF3FF;
+    background: #ECF3FF linear-gradient(white 20%, #ecf3ff 20%, #ecf3ff 90% , white 58%);
     margin-top: 0px;
 }
 .main__subtitle { 
     /*margin: 0 0 41px 0;
     font: 18px/21px 'Roboto',arial, helvetica, sans-serif ;*/
     margin-bottom: 50px;
-    margin-top: -5px;
+    margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    width: 464px;
-    height: 45px;
+    width: 470px;
+    height: 44px;
   font: 400 22px/25.78px 'Roboto', arial, helvetica, sans-serif;
   }
 .main__button {
     display: inline-block;
-    padding: 18px 36px 18px 19px;
-   margin-bottom: 250px;
-   font: 500 18px/21.09px 'Roboto', arial, helvetica, sans-serif;
+    padding: 17px 36px 18px 21px;
+    margin-bottom: 250px;
+    font: 500 18.1px/21.09px 'Roboto_me', arial, helvetica, sans-serif;
     color: #fff;
     background: #0056ec;
     text-decoration: none;
@@ -127,8 +129,8 @@ padding-right: 63%;
     position: absolute;
     width: 70px;
     height: 8px;
-    left: 940px;
-    margin-top: 14px;
+    left: 945px;
+    margin-top: 19px;
     }
 .title_additionally {
     font-family: 'PT_Serif';
