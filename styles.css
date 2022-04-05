@@ -34,11 +34,11 @@
 .menu {
     display: flex;
     align-items: center;
-    margin-right: 0px;
-    padding: 2px 4px 0px 1px;
+    margin-right: 141px;
+    /*padding: 2px 4px 0px 1px;*/
 }
 .menu__item:last-child {
-    margin-right: -9.9px;
+    margin-right: -149px;
 }
 .menu__item:after {
     position: absolute;
